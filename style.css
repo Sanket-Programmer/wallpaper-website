@@ -1,0 +1,23 @@
+.gradient-background .carousel .carousel-inner .carousel-item img{
+     filter: brightness(0.7);
+}
+
+.gradient-background .carousel .carousel-inner .carousel-item .container .carousel-caption h1{
+     text-align: center;
+     font-size: 5vw;
+}
+
+.gradient-background .carousel .carousel-inner .carousel-item .container .carousel-caption p{
+     text-align: center;
+     font-size: 3vw;
+}
+
+#reviews .container .row .col-lg-4{
+     text-align: center;
+}
+
+@media (max-width:768px){
+     .gradient-background .carousel .carousel-inner .carousel-item .container .carousel-caption .btn{
+     font-size: 3vw;
+}
+}
